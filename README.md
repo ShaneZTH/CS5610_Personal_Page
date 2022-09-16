@@ -9,3 +9,11 @@
 - [ ] Author with link to homepage
 - [ ] Reference to the class with link
 - [ ] Link to the video demonstration
+
+## P1 Requirments
+- [ ] Your homepage: Your skills, courses, projects, hobbies, etc.
+- [ ] W3C Compliant
+- [ ] Bootstrap 4+ (can use templates)
+- [ ] At least two pages
+- [ ] At least one JS (Vanilla) feature not copied
+- [ ] Can use templates
