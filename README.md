@@ -17,3 +17,5 @@
 - [ ] At least two pages
 - [ ] At least one JS (Vanilla) feature not copied
 - [ ] Can use templates
+
+ref: [link](https://johnguerra.co/lectures/webDevelopment_spring2021/04_Bootstrap/#/1/1)
