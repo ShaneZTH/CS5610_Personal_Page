@@ -14,11 +14,11 @@
 - [ ] Link to the video demonstration
 
 ## P1 Requirments
-- [ ] Your homepage: Your skills, courses, projects, hobbies, etc.
+- [X] Your homepage: Your skills, courses, projects, hobbies, etc.
 - [ ] W3C Compliant
-- [ ] Bootstrap 4+ (can use templates)
+- [X] Bootstrap 4+ (can use templates)
 - [ ] At least two pages
-- [ ] At least one JS (Vanilla) feature not copied
-- [ ] Can use templates
+- [X] At least one JS (Vanilla) feature not copied
+- [X] Can use templates
 
 ref: [link](https://johnguerra.co/lectures/webDevelopment_spring2021/04_Bootstrap/#/1/1)
