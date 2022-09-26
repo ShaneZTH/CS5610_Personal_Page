@@ -16,7 +16,7 @@ Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
  
 ---
 
-Screenshot of Home Page: ![screenshot_homepage_shanezhu](https://shanezth.github.io/CS5610_Personal_Page/assets/img/screenshot/screenshot_homepage.png)
+Screenshot of Home Page: ![screenshot_homepage_shanezhu](https://raw.githubusercontent.com/ShaneZTH/CS5610_Personal_Page/master/assets/img/screentshot/screenshoot_homepage.png?token=GHSAT0AAAAAABLJVOXYJTXJ3JK3Z3QTJBSYYZSFEXQ)
 
 ---
 
