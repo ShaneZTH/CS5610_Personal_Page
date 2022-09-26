@@ -1,5 +1,8 @@
 # CS5610_Personal_Page
 
+## Deployment Link
+- [My Page](https://shanezth.github.io/CS5610_Personal_Page)
+
 ## Requirements for a Good README
 - [ ] Good project name
 - [ ] Project objective
