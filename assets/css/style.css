@@ -228,7 +228,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background:  #F9C0B4;
   background-size: cover;
 }
 
@@ -637,7 +637,7 @@ section {
 # Interests
 --------------------------------------------------------------*/
 .interests .icon-box {
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 
 .interests .icon {
@@ -671,7 +671,7 @@ section {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .interests .title a {
@@ -685,14 +685,14 @@ section {
 .interests .description {
   margin-left: 80px;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
+  padding-bottom: 320px;
 }
 
 .contact .info {
@@ -883,6 +883,10 @@ section {
   }
 }
 
+.contact iframe {
+  frameboard:  10;
+}
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -936,7 +940,7 @@ section {
 #footer {
   padding: 15px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 9px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -952,7 +956,7 @@ section {
 #footer .credits {
   padding-top: 5px;
   text-align: center;
-  font-size: 13px;
+  font-size: 9px;
   color: #eaebf0;
 }
 
