@@ -8,6 +8,7 @@ Deployed Link: [https://shanezth.github.io/CS5610_Personal_Page/](https://shanez
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
 
+Design Doc: [link](https://github.com/ShaneZTH/CS5610_Personal_Page/blob/master/Design%20Doc.pdf)
 ---
 
 ### Project Objective:
