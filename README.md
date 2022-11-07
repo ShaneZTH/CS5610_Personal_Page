@@ -8,7 +8,7 @@ Deployed Link: [https://shanezth.github.io/CS5610_Personal_Page/](https://shanez
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
 
-Design Doc: [link](https://github.com/ShaneZTH/CS5610_Personal_Page/blob/master/Design%20Doc.pdf)
+Design Doc: [link](https://docs.google.com/document/d/1O-f6QYQTXJqj8JFPveUN_LWjIBwxifwtUi5X9ubBWWQ/edit?usp=sharing) [file](https://github.com/ShaneZTH/CS5610_Personal_Page/blob/master/Design%20Doc.pdf)
 
 ---
 
